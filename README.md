@@ -1,8 +1,7 @@
 ![Banner](images/Banner.png)
 # Used Car Price Prediction System
 ML-powered regression model predicting fair market prices of used vehicles to support data-driven pricing strategies in automotive retail.
-
-**Project Type:** Capstone Project  
+ 
 **Tech Stack:** Python, Scikit-Learn, XGBoost, Pandas, NumPy, Matplotlib, REST API, AWS/Google Cloud  
 **Goal:** Build a machine learning-powered pricing model to predict the fair market value of used cars and support data-driven pricing strategies.
 
